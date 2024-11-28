@@ -1,0 +1,48 @@
+.heading {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 36px;
+    letter-spacing: normal;
+    text-align: left;
+    padding-bottom: 8px;
+    color: #151e27;
+}
+
+.sub-heading {
+    font-size: 14px;
+    max-width: 340px;
+}
+
+button.externos {
+    border-color:#3665f3;
+    background-color: #3665f3 ;
+    color:#fff;
+    border: 1px solid;
+    border-radius: 24px;
+    text-align: center;
+    font-size: 0.875rem;
+    font-weight: 700;
+    min-height: 48px;
+    padding: 13px 20px;
+}
+
+button.btn-light {
+    border: 1px solid;
+    border-radius: 24px;
+    text-align: center;
+    font-size: 0.875rem;
+    font-weight: 700;
+    min-height: 48px;
+    padding: 13px 20px;
+    background-color: #fff;
+    min-height: 48px;
+    color: #151e27;
+}
+
+button.btn-light:hover {
+    border: 1px solid;
+    background-color: #f5f5f5;
+}
